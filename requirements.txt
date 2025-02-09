@@ -64,3 +64,4 @@ uritemplate==4.1.1
 urllib3==2.3.0
 uvicorn
 yagmail==0.15.293
+psycopg2

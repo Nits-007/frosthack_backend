@@ -34,14 +34,14 @@ lz4==4.4.3
 more-itertools==10.6.0
 msgpack==1.1.0
 mtcnn==1.0.0
-numpy==2.2.2
+numpy>=1.23.5,<2.0.0
+protobuf<5.0.0
 opencv-python==4.11.0.86
 packaging==24.2
 passlib==1.7.4
 pillow==11.1.0
 premailer==3.10.0
 proto-plus==1.26.0
-protobuf==5.29.3
 pyasn1==0.6.1
 pyasn1_modules==0.4.1
 pycparser==2.22

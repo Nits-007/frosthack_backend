@@ -36,7 +36,9 @@ msgpack==1.1.0
 mtcnn==1.0.0
 numpy>=1.23.5,<2.0.0
 protobuf>=3.20.2,<6.0.0
-opencv-python==4.11.0.86
+
+opencv-python-headless
+
 packaging==24.2
 passlib==1.7.4
 pillow==11.1.0
